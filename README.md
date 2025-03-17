@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Emanuel
+
+### Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Emanuel--Naval-blue)](https://www.linkedin.com/in/emanuel-naval/)
+
+![Mail](https://img.shields.io/badge/Gmail-Emanuelnaval07@gmail.com-blue?logo=gmail)
 
 <!--
 **naval07/naval07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
