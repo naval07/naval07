@@ -5,6 +5,12 @@
 
 ![Mail](https://img.shields.io/badge/Gmail-Emanuelnaval07@gmail.com-blue?logo=gmail)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **naval07/naval07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
