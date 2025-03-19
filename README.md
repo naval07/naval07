@@ -7,9 +7,9 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **naval07/naval07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
